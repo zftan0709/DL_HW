@@ -1,5 +1,5 @@
 # CPSC 881 Deep Learning HW1
-__
+
 ## Introduction
 In this assignment, there are three main tasks which are:
 * HW1-1 Deep vs Shallow
@@ -15,4 +15,5 @@ Tensorflow 1.15, numpy, scikit-learn, and OpenCV are used for this assignment. M
 * HW1-3 Parameters vs Generalization
 * HW1-3 Flatness vs Generalization
 * HW1-3 Flatness vs Generalization Part 2
+
 To visualize the result, run these code to acquire corresponding figures and results. To provide better visualization, both .py and .ipynb files are included in this repository.
