@@ -204,6 +204,6 @@ def test(test_dict):
     print('Testing Output Generated.')
     
 if __name__ == '__main__':
-    #test_dict = sys.argv[1]
-    test_dict = './testing_data/feat/'
+    test_dict = sys.argv[1]
+    #test_dict = './testing_data/feat/'
     test(test_dict)
