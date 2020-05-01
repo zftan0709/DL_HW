@@ -17,7 +17,7 @@ To visualize the results, run DCGAN.py or WGANGP.py to plot generated images and
 Please decompress the model save file in the folder, save before running the code.
 
 ## Generated Images
-![DCGAN1](/DCGAN1.png)
-![DCGAN2](/DCGAN2.png)
-![DCGAN6](/DCGAN6.png)
+![DCGAN1](/HW3/DCGAN1.png)
+![DCGAN2](/HW3/DCGAN2.png)
+![DCGAN6](/HW3/DCGAN6.png)
 
