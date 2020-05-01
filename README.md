@@ -1,19 +1,10 @@
-# CPSC 881 Deep Learning HW1
+# CPSC 881 Deep Learning Assignment
 
 ## Introduction
-In this assignment, there are three main tasks which are:
-* HW1-1 Deep vs Shallow
-* HW1-2 Optmization
-* HW1-3 Generalization
-
-## Instruction
-Tensorflow 1.15, numpy, scikit-learn, and OpenCV are used for this assignment. Make sure that these libraries are installed before running the code. The tasks are separated into individual files as listed as below.
-* HW1-1 Simulated Function
-* HW1-1 CNN on MNIST
-* HW1-2 Optimization
-* HW1-3 Random Label
-* HW1-3 Parameters vs Generalization
-* HW1-3 Flatness vs Generalization
-* HW1-3 Flatness vs Generalization Part 2
-
-To visualize the result, run these code to acquire corresponding figures and results. To provide better visualization, both .py and .ipynb files are included in this repository.
+In this course, there are three assignments main assignments that covered three main topics which are:
+* HW1 - Convolutional Neural Network (CNN)
+Models are trained on MNIST dataset to compare several factors of the network architecture. For instance, number of parameters and sensitivity of the network are measured against the overall performance of the network on same dataset.
+* HW2 - Recurrent Neural Network (RNN)
+In this assignment, a sequence-to-sequence model, S2VT is trained to generate caption for given input video features. The performance of the model is then determined by calculating its bleu score.
+* HW3 - Generative Adversarial Network (GAN)
+Generative Adversarial has been known for being able to generate new data with the same statistic as the input data. In this assignment, two GAN architecture, DCGAN and WGAN-GP are trained on CIFAR10 dataset to generate new images that are similar to the original dataset. The generated images from both network are then compared by calculating their corresponding Inception score and FID score.
